@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ################################################################################
-## Form generated from reading UI file 'Splashp1gUturQ.ui'
+## Form generated from reading UI file 'Splashp1yVdIhW.ui'
 ##
 ## Created by: Qt User Interface Compiler version 5.15.1
 ##
@@ -17,7 +17,7 @@ class Ui_SplashScreen(object):
     def setupUi(self, SplashScreen):
         if not SplashScreen.objectName():
             SplashScreen.setObjectName(u"SplashScreen")
-        SplashScreen.resize(680, 400)
+        SplashScreen.resize(583, 400)
         self.centralwidget = QWidget(SplashScreen)
         self.centralwidget.setObjectName(u"centralwidget")
         self.verticalLayout = QVBoxLayout(self.centralwidget)
